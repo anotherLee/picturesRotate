@@ -81,12 +81,12 @@
 
 .wrapper > input{
     position:absolute;
-    top:150px;
+    top:51%;
 }
 
 .wrapper >input:nth-child(6){
-    left:-150px;
+    left:-160px;
 }
 .wrapper >input:nth-child(7){
-    right:-150px;
+    right:-170px;
 }
